@@ -6,6 +6,6 @@
 	"packageRules": [{
 		"datasources": ["maven", "npm", "pypi", "nuget", "packagist"],
 		"updateTypes": ["patch", "minor", "major"],
-		"prBodyColumns": ["Package", "Change", "Age", "Adoption", "Passing", "Confidence"]
+		"prBodyColumns": ["Package", "Change", "Age", "Adoption", "Passing"]
 	}]
 }
